@@ -12,6 +12,6 @@
 1. `pip install -r requirements.txt`.
 2. Skapa en mapp 'files' under roten till detta projekt.
 3. Spara det färdiga schemat som '.xlsx' in i 'files'-mappen.
-4. Fyll i konstanterna (SCHEMA_FILE_NAME, YOUR_NAME)
+4. Fyll i konstanterna (`SCHEMA_FILE_NAME`, `YOUR_NAME`)
 5. Kör programmet.
 6. Importera handledningsschema.ics till din kalender.
